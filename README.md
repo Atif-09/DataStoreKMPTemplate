@@ -5,6 +5,11 @@ This is a template for using Jetpack DataStore with Kotlin Multiplatform (KMP) a
 - iOS
 - Desktop
 
-  # Demo
+# Demo
   
   ## IOS
+  
+  https://github.com/Atif-09/DataStoreKMPTemplate/assets/55842938/eeb98c00-8d30-4cc0-ae30-f062c99cbeb0
+  
+
+
